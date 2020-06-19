@@ -1,0 +1,19 @@
+button {
+    padding: .5rem;
+    margin-left: .25rem;
+  }
+   
+  button:disabled {
+    opacity: 0.5;
+  }
+   
+  button.dark {
+    background: black;
+    color: white;
+  }
+   
+  button.light {
+    background: white;
+    color: black;
+    border: 2px solid black;
+  }

@@ -1,0 +1,32 @@
+.App {
+  max-width: 700px;
+  display: block;
+  border: 2px solid lightgray;
+  margin: 2rem auto;
+}
+
+.App h1 {
+  padding: 0 1rem;
+}
+
+.Categories {
+  overflow: auto;
+  display: block;
+  position: relative;
+  padding: 0 1rem 1rem 1rem;
+  border-bottom: 2px solid lightgray;
+}
+.List {
+  margin: 1rem;
+  border: 1px solid lightgreen;
+}
+.ListItem {
+  padding: 1rem;
+  border: 1px solid lightblue;
+}
+
+.Total {
+  padding: 0 1rem;
+  margin-top: 1rem;
+  border: 1px solid pink;
+}
